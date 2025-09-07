@@ -1,0 +1,6 @@
+pydantic
+pydantic-ai
+httpx
+python-dotenv
+pdfplumber
+streamlit
